@@ -214,3 +214,10 @@ p::first-letter {
   transform: skewX(45deg);
 } */
 /* Transition-transition property,duration,delay */
+/* :is Pseudo class reference */
+header p,header a{
+  color:turquoise
+}
+header :is(p,a){
+  color:purple
+}
