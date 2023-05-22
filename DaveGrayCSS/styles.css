@@ -1,0 +1,18 @@
+body{
+    font-family: sans-serif;
+    font-size: 1.5rem;
+}
+.columns{
+    /* column-count: 4;
+    column-width: 250px; */
+    /* shorthand for column-count and column-width */
+    columns:4 250px;
+    column-gap: 2rem;
+    column-rule: 3px solid #333;
+}
+.columns p{
+    margin-top: 0;
+    /* break-inside: avoid; */
+    /* white-space: nowrap;
+    column-span: all; */
+}
