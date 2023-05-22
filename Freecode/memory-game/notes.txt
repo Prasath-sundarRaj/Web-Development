@@ -1,0 +1,4 @@
+Need to know :
+Domcontentloaded,
+math.random,
+textcontent
