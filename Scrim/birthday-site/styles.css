@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    font-family: 'Happy Monkey',cursive;
+    background-color: #a2d2ff;
+    color: #ffffff;
+    text-shadow: 0 0 1px #000000;
+}
+  #bff-img{
+    border: 6px solid #efb0c9;
+    border-radius: 50%;
+    width: 150px;
+  }
+  h2,h4{
+
+      background-color:#efb0c9 ;
+  }
+  #flex-wrap{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
